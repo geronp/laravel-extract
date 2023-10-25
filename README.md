@@ -1,2 +1,2 @@
 # laravel-sample
-Sample Files of Laravel
+Sample Files for Laravel MVC
