@@ -1,2 +1,2 @@
-# laravel-sample
+# laravel-extract
 Laravel MVC
